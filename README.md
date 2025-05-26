@@ -16,10 +16,10 @@ Here are some ideas to get you started:
   
 
 
+<h1 align="center">
+Hey 👋, I'm Cristian!
+<h1/>
 <p align="center">
-#Hey 👋, I'm Cristian!
-
-
 - I'm currently studying a Higher Vocational Training Course in Web Application Development.
 
 - Take a look at my [personal website](cristiansarbu.com)!
