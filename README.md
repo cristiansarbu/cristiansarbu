@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-# Hey 👋, I'm Cristian!
+#Hey 👋, I'm Cristian!
 
 
 - I'm currently studying a Higher Vocational Training Course in Web Application Development.
