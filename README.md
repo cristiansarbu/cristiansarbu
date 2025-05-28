@@ -24,7 +24,7 @@ I'm currently studying a Higher Vocational Training Course in Web Application De
 </li>
 
 <li align="center">
-Take a look at my <a href="https://cristiansarbu.com">personal website</a>!
+Take a look at my <a href="https://cristiansarbu.com">personal website!</a>
 </li>
 
  <li align="center">
