@@ -1,12 +1,26 @@
+<a id="top"></a>
+
 <div align="center">
 
-[![ES](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-FF0000?style=for-the-badge)](#-versi%C3%B3n-en-espa%C3%B1ol)&nbsp;&nbsp;&nbsp;[![EN](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-012169?style=for-the-badge)](#-english-version)
+<a href="#seccion-es">
+  <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-Ver%20en%20espa%C3%B1ol-FF0000?style=for-the-badge" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#seccion-en">
+  <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-Read%20in%20English-012169?style=for-the-badge" />
+</a>
 
 </div>
+
+<br>
 
 ---
 
 <br>
+
+<a id="seccion-es"></a>
+
+## 🇪🇸 Versión en Español
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola+%F0%9F%91%8B%2C+soy+Cristian!%3BDesarrollador+Full-Stack+%26+Cloud" alt="Typing SVG" />
@@ -27,8 +41,8 @@
 
 ## Sobre mí
 
-- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web Dual Intensivo** - C.P.C. Sagrado Corazón Jesuitas
-- 💼 Experienca de prácticas en **Arsys Lab** (Arsys / IONOS): LLMs e infraestuctura de LLMs, WebAuthn y Gaia-X
+- 🎓 **Técnico Superior en DAW Dual Intensivo** - C.P.C. Sagrado Corazón Jesuitas
+- 💼 Prácticas en **Arsys Lab** (Arsys / IONOS): LLMs e infraestructura LLM, WebAuthn y Gaia-X
 - 🏆 **SpainSkills 2026** - Competidor nacional en Cloud Computing representando a La Rioja
 - 🥉 **ProgramaMe 2025** - 3.º puesto regional, finalista nacional (algoritmos Java y estructuras de datos)
 - 🔐 Experiencia con **WebAuthn, passkeys, YubiKeys y OpenPGP**
@@ -75,9 +89,7 @@
 <br>
 
 <div align="center">
-
-[⬆️ Volver al selector de idioma](#)
-
+  <a href="#top">⬆️ Volver al selector de idioma</a>
 </div>
 
 <br>
@@ -85,7 +97,10 @@
 ---
 
 <br>
-<br>
+
+<a id="seccion-en"></a>
+
+## 🇬🇧 English Version
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I%27m+Cristian!%3BFull-Stack+%26+Cloud+Developer" alt="Typing SVG" />
@@ -106,7 +121,7 @@
 
 ## About Me
 
-- 🎓 **Higher Vocational Training (Web Application Development)** graduate - C.P.C. Sagrado Corazón Jesuitas
+- 🎓 **Higher Vocational Training (DAW Dual Intensivo)** graduate - C.P.C. Sagrado Corazón Jesuitas
 - 💼 Former **Arsys Lab** intern at **Arsys / IONOS**, working on LLMs and LLM infrastructure, WebAuthn & Gaia-X
 - 🏆 **SpainSkills 2026** - National Cloud Computing competitor representing La Rioja
 - 🥉 **ProgramaMe 2025** - 3rd place regional, national finalist (Java algorithms & data structures)
@@ -154,7 +169,5 @@
 <br>
 
 <div align="center">
-
-[⬆️ Back to language selector](#)
-
+  <a href="#top">⬆️ Back to language selector</a>
 </div>
