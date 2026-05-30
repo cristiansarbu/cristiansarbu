@@ -1,59 +1,160 @@
-<!--
-**cristiansarbu/cristiansarbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
-
-<h1>
-Hey 👋, I'm Cristian!
-</h1>
-
-<li align="center">
-I'm currently studying a Higher Vocational Training Course in Web Application Development.
-</li>
-
-<li align="center">
-Take a look at my <a href="https://cristiansarbu.com">personal website!</a>
-</li>
-
- <li align="center">
-My tech stack:
-</li>
-<br>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Express%20JS-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Pug-EC9C8D?style=for-the-badge&logo=pug&logoColor=black">
-<img src="https://img.shields.io/badge/axios-6d7d7d?style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+
+[![ES](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-FF0000?style=for-the-badge)](#-versi%C3%B3n-en-espa%C3%B1ol)&nbsp;&nbsp;&nbsp;[![EN](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-012169?style=for-the-badge)](#-english-version)
 
 </div>
+
+---
+
 <br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cristiansarbu&theme=tokyonight&hide_border=true">
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristiansarbu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola+%F0%9F%91%8B%2C+soy+Cristian!%3BDesarrollador+Full-Stack+%26+Cloud" alt="Typing SVG" />
 </div>
 
+<br>
+
+<p align="center">
+  Desarrollador full-stack especializado en <strong>backend</strong>, <strong>cloud (AWS)</strong> e <strong>infraestructura (Docker)</strong>.
+</p>
+
+<p align="center">
+  <a href="https://cristiansarbu.com">Portfolio (WIP)</a> •
+  <a href="https://www.linkedin.com/in/angelo-cristian-sarbu/">LinkedIn</a>
+</p>
+
+<br>
+
+## Sobre mí
+
+- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web Dual Intensivo** - C.P.C. Sagrado Corazón Jesuitas
+- 💼 Experienca de prácticas en **Arsys Lab** (Arsys / IONOS): LLMs e infraestuctura de LLMs, WebAuthn y Gaia-X
+- 🏆 **SpainSkills 2026** - Competidor nacional en Cloud Computing representando a La Rioja
+- 🥉 **ProgramaMe 2025** - 3.º puesto regional, finalista nacional (algoritmos Java y estructuras de datos)
+- 🔐 Experiencia con **WebAuthn, passkeys, YubiKeys y OpenPGP**
+- 🤖 Experiencia desplegando **LLMs open-source** con vLLM, Docker e infraestructura GPU
+- 🌍 Nativo en español y rumano · C2 en inglés · B2 en alemán
+
+<br>
+
+## Stack Tecnológico
+
+### Lenguajes
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frameworks y Librerías
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Cloud y DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+## Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cristiansarbu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+
+[⬆️ Volver al selector de idioma](#)
+
+</div>
+
+<br>
+
+---
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I%27m+Cristian!%3BFull-Stack+%26+Cloud+Developer" alt="Typing SVG" />
+</div>
+
+<br>
+
+<p align="center">
+  Full-stack developer focused on <strong>backend</strong>, <strong>cloud (AWS)</strong> and <strong>infrastructure (Docker)</strong>.
+</p>
+
+<p align="center">
+  <a href="https://cristiansarbu.com">Portfolio (WIP)</a> •
+  <a href="https://www.linkedin.com/in/angelo-cristian-sarbu/">LinkedIn</a>
+</p>
+
+<br>
+
+## About Me
+
+- 🎓 **Higher Vocational Training (Web Application Development)** graduate - C.P.C. Sagrado Corazón Jesuitas
+- 💼 Former **Arsys Lab** intern at **Arsys / IONOS**, working on LLMs and LLM infrastructure, WebAuthn & Gaia-X
+- 🏆 **SpainSkills 2026** - National Cloud Computing competitor representing La Rioja
+- 🥉 **ProgramaMe 2025** - 3rd place regional, national finalist (Java algorithms & data structures)
+- 🔐 Experience with **WebAuthn, passkeys, YubiKeys and OpenPGP**
+- 🤖 Experience deploying **open-source LLMs** with vLLM, Docker and GPU infrastructure
+- 🌍 Native in Spanish & Romanian · C2 English · B2 German
+
+<br>
+
+## Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cristiansarbu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+
+[⬆️ Back to language selector](#)
+
+</div>
