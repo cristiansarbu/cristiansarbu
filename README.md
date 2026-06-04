@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  Desarrollador full-stack especializado en <strong>backend</strong>, <strong>cloud (AWS)</strong> e <strong>infraestructura (Docker)</strong>.
+  Desarrollador full-stack enfocado en backend, bases de datos, cloud e infraestructura (AWS, Docker) con experiencia en entornos reales.
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@
 <br>
 
 <p align="center">
-  Full-stack developer focused on <strong>backend</strong>, <strong>cloud (AWS)</strong> and <strong>infrastructure (Docker)</strong>.
+  Full-stack developer focused on backend, databases, cloud and infrastructure (AWS, Docker) with experience in real environments.
 </p>
 
 <p align="center">
