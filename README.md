@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cristiansarbu.com">Portfolio (WIP)</a> •
+  <a href="https://cristiansarbu.com">Portfolio</a> •
   <a href="https://www.linkedin.com/in/angelo-cristian-sarbu/">LinkedIn</a>
 </p>
 
@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cristiansarbu.com">Portfolio (WIP)</a> •
+  <a href="https://cristiansarbu.com">Portfolio</a> •
   <a href="https://www.linkedin.com/in/angelo-cristian-sarbu/">LinkedIn</a>
 </p>
 
